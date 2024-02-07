@@ -52,6 +52,9 @@ padding: 15px;
         width: 100%;
         border-radius: 5px;
     }
+.topsm{
+    padding-top: 7px;
+}
 
     @media (max-width: 994px) {
         .buttonlogo{
